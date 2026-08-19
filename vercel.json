@@ -4,7 +4,3 @@
       "maxDuration": 60
     }
   },
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/app.py" }
-  ]
-}
